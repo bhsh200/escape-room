@@ -421,12 +421,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Find the PC Setup at the end of the maze! Be careful of dead ends and
-    have fun!
+  m_text: 'Find the PC Setup at the end of the maze to win! Be careful of dead ends
+    and have fun! Personal target- do it under 2 minutes!
 
     WASD - usual meanings.
 
-    Mouse movement to look around.'
+    Mouse
+    movement to look around.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

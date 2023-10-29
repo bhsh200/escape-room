@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/aesthver.unity
     guid: c77e1a6d5136d424d8d08ee7d13a1957
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 6fb25580f3abbcc48a118eb44f5506f3
   m_configObjects: {}
