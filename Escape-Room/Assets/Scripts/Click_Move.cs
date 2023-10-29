@@ -18,6 +18,8 @@ public class Click_Move: MonoBehaviour
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
 
+            print("test");
+
             // Check if the ray hits this object
             if (Physics.Raycast(ray, out hit) && hit.collider.gameObject == gameObject)
             {
